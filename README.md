@@ -1,5 +1,6 @@
 ﻿# React-Typescript
- This repository contains all the learning exercises and projects of React and Typescript
+ This repository contains all the learning exercises and projects of React and Typescript 
+ 
 
 ## React
 
